@@ -1,0 +1,20 @@
+{
+  "name": "jquery-form",
+  "version": "1.0.0",
+  "description": "jQuery form plugin",
+  "keywords": [],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-form.js",
+    "dependencies": {
+    }
+  }
+}

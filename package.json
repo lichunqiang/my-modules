@@ -1,0 +1,14 @@
+{
+  "name": "my_modules",
+  "version": "0.1.0",
+  "description": "module seajs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "light<light-li@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "shelljs": "^0.3.0"
+  }
+}
