@@ -16,7 +16,8 @@ var spm_modules = [
 ];
 
 var my_modules =  [
-	'jquery-validation/1.13.1'
+	'jquery-validation/1.13.1',
+	'icheck/1.0.1'
 ];
 
 gulp.task('build-gallery', function(cb){
