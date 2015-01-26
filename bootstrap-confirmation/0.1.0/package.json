@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-confirmation",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tavicu/bootstrap-confirmation.git"
+  },
+  "keywords": [
+    "twitter-bootstrap",
+    "bootstrap",
+    "datepicker",
+    "datetimepicker",
+    "timepicker"
+  ],
+  "devDependencies": {
+    "uglify-js": "*",
+    "less": "*",
+    "mocha-phantomjs": "*",
+    "mocha": "*",
+    "chai": "*",
+    "coffee-script": "*"
+  },
+  "spm": {
+    "output": [
+      "bootstrap-confirmation.js"
+    ]
+  }
+}
