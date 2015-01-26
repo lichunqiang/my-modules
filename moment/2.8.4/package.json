@@ -1,0 +1,9 @@
+{
+  "name": "moment",
+  "version": "2.8.4",
+  "spm": {
+    "output": [
+      "moment.js"
+    ]
+  }
+}
