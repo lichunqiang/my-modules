@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-datetimepicker",
+  "version": "3.1.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarruda/bootstrap-datetimepicker.git"
+  },
+  "keywords": [
+    "twitter-bootstrap",
+    "bootstrap",
+    "datepicker",
+    "datetimepicker",
+    "timepicker"
+  ],
+  "devDependencies": {
+    "uglify-js": "*",
+    "less": "*",
+    "mocha-phantomjs": "*",
+    "mocha": "*",
+    "chai": "*",
+    "coffee-script": "*"
+  },
+  "spm": {
+    "output": [
+      "bootstrap-datetimepicker.js"
+    ],
+    "dependencies": {
+      "moment": "2.8.4"
+    }
+  }
+}
