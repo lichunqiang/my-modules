@@ -1,0 +1,20 @@
+{
+  "name": "sweet-alert",
+  "description": "sweet-alert for cmd",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "http://ifightcrime.github.io/bootstrap-growl",
+  "author": {
+    "name": "Nick Larson"
+  },
+  "main": "sweet-alert.js",
+  "spm": {
+    "output": [
+      "sweet-alert.js",
+      "sweet-alert.css"
+    ],
+    "dependencies": {
+      "import-style": "1.0.0"
+    }
+  }
+}
